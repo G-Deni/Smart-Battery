@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Custom Symbols")(type "KiCad")(uri "/home/oem/GIT/KiCad-Custom-Library/Custom-Compnents/Symbols/Custom Symbols.kicad_sym")(options "")(descr ""))
+)
